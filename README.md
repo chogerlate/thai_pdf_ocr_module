@@ -1,5 +1,8 @@
 # Thai OCR PDF Extractor
 
+![Our Solution](assets\architecture.png "Solution Design")
+
+
 This repository contains two separate Python scripts for extracting text from multi-page PDF files using Optical Character Recognition (OCR). Each script utilizes a different OCR engine:
 
 1.  **Typhoon OCR**: A cloud-based API suitable for high-quality, structured text extraction.
