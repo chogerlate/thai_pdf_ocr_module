@@ -1,6 +1,4 @@
-Here's the `README.md` file based on the provided Python scripts and instructions.
-
-# OCR PDF Extractor
+# Thai OCR PDF Extractor
 
 This repository contains two separate Python scripts for extracting text from multi-page PDF files using Optical Character Recognition (OCR). Each script utilizes a different OCR engine:
 
